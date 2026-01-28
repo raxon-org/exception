@@ -6,10 +6,10 @@
  * @license         MIT
  * @version         1.0
  */
-namespace Exception;
+namespace Exception_ol;
 
-use Exception;
+use Exception_ol;
 
-class DirectoryCreateException extends Exception {
+class UrlNotExistException extends Exception {
 
 }
