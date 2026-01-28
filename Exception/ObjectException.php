@@ -6,8 +6,8 @@
  * @license         MIT
  * @version         1.0
  */
-namespace Exception_ol;
-use Exception_ol;
+namespace Exception;
+use Exception;
 
 class ObjectException extends Exception {
 

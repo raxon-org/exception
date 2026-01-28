@@ -6,9 +6,9 @@
  * @license         MIT
  * @version         1.0
  */
-namespace Exception_ol;
+namespace Exception;
 
-use Exception_ol;
+use Exception;
 
 class FileExistException extends Exception {
 
